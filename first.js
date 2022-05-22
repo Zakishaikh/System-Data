@@ -70,7 +70,7 @@ function greet(c) {
     } else if (time >= 17 && time < 21) {
         return "Good Evening, " + c;
     } else {
-        return "Hope you are doing well, " + c;
+        return "Hope you are safe, " + c;
     }
 
 }
